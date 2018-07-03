@@ -1,0 +1,7 @@
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
